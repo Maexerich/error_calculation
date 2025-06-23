@@ -1,2 +1,5 @@
 .venv
 *.mp4
+
+# Keep videos in the videos folder
+!videos/*.mp4

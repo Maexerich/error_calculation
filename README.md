@@ -17,6 +17,14 @@ pip install -r requirements.txt
 The file 'error_calculation.ipynb' steps through and makes some plots on how accurate you can actually exert a specific force vector on a participant, assuming certain positional tolerances. For the exact math behind it, I might have used a slightly different convention than you did (variable names).
 Look at it and ask if I should modify/add anything.
 
+# Data annotation
+# ====================
+Annotated data is in the `data` folder. 
+An import script is provided with the `import_annotated_data.ipynb` file.
+
+# Selected videos
+# ====================
+In the `videos` folder you can find cut and selected videos. They are meant to be watched in a continuous looping manner (e.g. in ppt this can be set).
 
 # Images from videos
 # ====================
